@@ -1,0 +1,24 @@
+{
+  "name": "auth-app-sdk",
+  "version": "1.0.0",
+  "description": "integrate auth into your app",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server src/ -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webformula/auth-app-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webformula/auth-app-sdk/issues"
+  },
+  "homepage": "https://github.com/webformula/auth-app-sdk#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
